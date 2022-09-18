@@ -1,6 +1,6 @@
 @media only screen and (max-width: 934px) {
   #Header_area {
-    height: 90vh;
+    height: 100vh;
   }
   #Header_area nav {
     line-height: 7rem;
@@ -76,7 +76,7 @@
     font-size: 55%;
   }
   #Header_area {
-    height: 70vh;
+    height: 100vh;
   }
   #Header_area ul {
     padding-top: 20%;

@@ -1023,10 +1023,6 @@ h4 {
   color: #fff;
   font-size: 1.3rem;
   border-radius: 0 3vw;
-  -webkit-border-radius: 0 3vw;
-  -moz-border-radius: 0 3vw;
-  -ms-border-radius: 0 3vw;
-  -o-border-radius: 0 3vw;
 }
 #Subscribe_area .Custom_border .Content .Mini_btn:hover {
   /* transform: rotate(360deg); */

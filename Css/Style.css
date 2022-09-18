@@ -173,8 +173,9 @@ section {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
-  min-height: 100vh;
+  height: 100vh;
   position: relative;
+  min-height: 72rem;
 }
 
 #Header_area nav {
